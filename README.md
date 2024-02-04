@@ -59,7 +59,7 @@
 
 > Em relação ao tema/configurações do sistema operacional não tem nenhum segredo, apenas a mudança para o tema ESCURO e a alteração da cor padrão para ROXO para tirar o aspecto laranja que o Ubuntu tem.
 
-![[Captura de tela de 2024-02-04 18-55-17.png]]
+![Captura de tela de 2024-02-04 18-55-17](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/8a4d26e0-dcda-4a41-bcf0-1120c0015934)
 
 ### Papeis de parade
 
@@ -107,7 +107,7 @@ abrir o arquivo de configurações o zsh
 > code ~/.zshrc
 
 Atente-se a adicionar os três plugins no final do texto de configurações do zsh.
-> ![[Captura de tela de 2024-02-04 19-38-39.png]]
+![Captura de tela de 2024-02-04 19-38-39](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/9c576c1a-c4e5-4989-b070-41b14123f080)
 >zinit light zdharma-continuum/fast-syntax-highlighting
  zinit light zsh-users/zsh-autosuggestions
  zinit light zsh-users/zsh-completions
@@ -127,11 +127,11 @@ Abrir arquivo de configurações
 > code ~/.zshrc
 
 Alterar o valor da variável tema para powerlevel10k/powerlevel10k
-> ![[Captura de tela de 2024-02-04 19-45-37.png]]
+> ![Captura de tela de 2024-02-04 19-45-37](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/d55256ab-6ebb-4cf5-99f4-a12cd278cba4)
 
 <i> Reiniciar e configurar de acordo. </i>
 
->![[Captura de tela de 2024-02-04 19-48-31.png]]
+> ![Captura de tela de 2024-02-04 19-48-31](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/28e6d762-2738-47b2-9925-37663dee8796)
 
 ###  Tema / Fonte
 
@@ -146,7 +146,8 @@ Baixando fonte e descompactado dentro da pasta criada44
 
 Alterando TEMA do terminal para o tema TANGO ESCURO, adicionando transparência e alterando para fonte baixada anteriormente.
 
->![[Captura de tela de 2024-02-04 19-52-43.png]]
+> ![Captura de tela de 2024-02-04 19-52-43](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/2da26959-5602-4b57-938c-0e0d1801544a)
+
 ...
 
 ## VSCODE
@@ -168,7 +169,7 @@ Alterando TEMA do terminal para o tema TANGO ESCURO, adicionando transparência 
 > Prettier (Concatenação automática)
 > LiveServer (Aplica as alterações no cod. na pagina automaticamente).
 >
->![[Captura de tela de 2024-02-04 20-10-25.png]]
+> ![Captura de tela de 2024-02-04 20-10-25](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/1cf2b24d-e7bf-46f3-a686-1c675611f9fa)
 > <i>...<i/>
 
 
