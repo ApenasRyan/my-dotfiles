@@ -1,26 +1,5 @@
 # my-dotfiles
 
-ÍNDICE:
-- SOBRE 
-    - Contexto
-- SISTEMA
-	- Apps
-	- Tema / Configs 
-	- Papeis de parede
-- TERMINAL
-	- oh my zsh
-	- plugins oh my zsh
-	- powerlevel10k
-	- tema / fonte
-- VSCODE
-	- Tema
-	- Fonte
-	- Extensões
-	- Settings.Json
-	- Link com Github
-- Considerações finais.
-	- Contexto
-****
 ## SOBRE
 
 > Cansei de ficar correndo atrás de tudo depois de formatar o PC, então criei esse repositório pra botar um ponto final nessa correria. Aqui, tudo que preciso tá centralizado, desde as configurações até os detalhes mais importantes. Agora, acabou a dor de cabeça pós-formatação, é só dar uma olhada aqui e tá tudo na mão.
