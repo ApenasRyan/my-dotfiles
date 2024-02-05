@@ -7,7 +7,7 @@
 ## SISTEMA
 ### Apps
 
-> Comecei a usar a loja do sistema. É bem simples para instalar programas comuns utilizados diariamente. Simplifica bastante!
+> Comecei a usar a loja do sistema. É bem simples para instalar programas comuns utilizados diariamente. ( Ubuntu Store) 
 &nbsp;
 
 - Brave
