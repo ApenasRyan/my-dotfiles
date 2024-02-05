@@ -11,14 +11,9 @@
 &nbsp;
 
 - Brave
-![Captura de tela de 2024-02-04 18-30-03](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/6f49d1d4-67b3-4fd6-a60b-ff1c9521e023)
 - Spotify
-![Captura de tela de 2024-02-04 18-28-59](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/d7b124d5-dca0-4e7a-aabe-e6c36e6890a8)
 - Sublime
-![Captura de tela de 2024-02-04 18-41-13](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/6de38ad3-1f8f-4b0d-ae84-49b7d24eca78)
 - Visual Studio Code
-![Captura de tela de 2024-02-04 18-28-31](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/77355c2f-2541-43f3-9fc0-cb6096fae078)
-
 
 #### Instalações diretas por terminal:
 
