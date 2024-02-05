@@ -82,9 +82,9 @@ abrir o arquivo de configurações o zsh
 
 Atente-se a adicionar os três plugins no final do texto de configurações do zsh.
 ![Captura de tela de 2024-02-04 19-38-39](https://github.com/ApenasRyan/my-dotfiles/assets/107745040/9c576c1a-c4e5-4989-b070-41b14123f080)
->zinit light zdharma-continuum/fast-syntax-highlighting
->zinit light zsh-users/zsh-autosuggestions
->zinit light zsh-users/zsh-completions
+> - zinit light zdharma-continuum/fast-syntax-highlighting
+> - zinit light zsh-users/zsh-autosuggestions
+> - zinit light zsh-users/zsh-completions
 
 > 1° - Adiciona coloração permite validar a sintax do comando digitado.
 > 2° - Sugestões de comandos utilizados anteriormente.
